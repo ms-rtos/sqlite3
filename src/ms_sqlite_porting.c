@@ -6,7 +6,7 @@
  *
  * File: ms_sqlite_porting.c SQLite porting.
  *
- * Author: Jiao.jinxing <jiaojixing@acoinfo.com>
+ * Author: Jiao.jinxing <jiaojinxing@acoinfo.com>
  *
  */
 
